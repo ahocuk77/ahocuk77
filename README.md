@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/ahocuk?1337Badge=off&UM6P=off" alt="ahocuk's 42 stats" /></a>
 <!--
 **ahocuk77/ahocuk77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
