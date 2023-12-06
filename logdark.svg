@@ -5,13 +5,14 @@
 				<style>
 		
 	:root {
-	--color-text-dark: rgba(255, 127, 0, 1);
-	--color-dot-bg-0-dark: rgba(255, 127, 0, 0.8);
-	--color-dot-bg-1-dark: rgba(255, 127, 0, 0.6);
-	--color-dot-bg-2-dark: rgba(255, 127, 0, 0.4);
-	--color-dot-bg-3-dark: rgba(255, 127, 0, 0.2);
-	--color-dot-bg-4-dark: rgba(255, 127, 0, 0);
-	--color-dot-border-dark: rgba(0, 0, 0, 0.06);
+	--color-text-dark: #FF4D00;
+	--color-dot-bg-0-dark: #8B4513;
+	--color-dot-bg-1-dark: #663300;
+	--color-dot-bg-2-dark: #4C2F00;
+	--color-dot-bg-3-dark: #331F00;
+	--color-dot-bg-4-dark: #000000;
+	--color-dot-border-dark: rgb(0 0 0 / 0.06);
+
 	
 	--color-text-light: rgba(255, 127, 0, 1);
 	--color-dot-bg-0-light: rgba(204, 102, 0, 0.8);
