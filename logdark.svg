@@ -5,7 +5,7 @@
 				<style>
 		
 	:root {
-	--color-text-light: #FF7F00;
+	--color-text-dark: #FF7F00;
 	--color-dot-bg-0-dark: #8B4513;
 	--color-dot-bg-1-dark: #663300;
 	--color-dot-bg-2-dark: #4C2F00;
