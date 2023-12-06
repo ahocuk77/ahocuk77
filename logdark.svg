@@ -5,21 +5,22 @@
 				<style>
 		
 	:root {
-		--color-text-light: rgba(255, 127, 0, 1);
-		--color-dot-bg-0-light: rgba(255, 127, 0, 0.9);
-		--color-dot-bg-1-light: rgba(255, 127, 0, 0.7);
-		--color-dot-bg-2-light: rgba(255, 127, 0, 0.5);
-		--color-dot-bg-3-light: rgba(255, 127, 0, 0.3);
-		--color-dot-bg-4-light: rgba(255, 127, 0, 0);
-		--color-dot-border-light: rgba(0, 0, 0, 0.06);
-		
-		--color-text-dark: rgba(255, 127, 0, 1);
-		--color-dot-bg-0-dark: rgba(204, 102, 0, 0.9);
-		--color-dot-bg-1-dark: rgba(230, 115, 0, 0.7);
-		--color-dot-bg-2-dark: rgba(255, 128, 0, 0.5);
-		--color-dot-bg-3-dark: rgba(255, 92, 0, 0.3);
-		--color-dot-bg-4-dark: rgba(255, 77, 0, 0);
-		--color-dot-border-dark: rgba(0, 0, 0, 0.06);
+	--color-text-dark: rgba(255, 127, 0, 1);
+	--color-dot-bg-0-dark: rgba(255, 127, 0, 0.8);
+	--color-dot-bg-1-dark: rgba(255, 127, 0, 0.6);
+	--color-dot-bg-2-dark: rgba(255, 127, 0, 0.4);
+	--color-dot-bg-3-dark: rgba(255, 127, 0, 0.2);
+	--color-dot-bg-4-dark: rgba(255, 127, 0, 0);
+	--color-dot-border-dark: rgba(0, 0, 0, 0.06);
+	
+	--color-text-light: rgba(255, 127, 0, 1);
+	--color-dot-bg-0-light: rgba(204, 102, 0, 0.8);
+	--color-dot-bg-1-light: rgba(230, 115, 0, 0.6);
+	--color-dot-bg-2-light: rgba(255, 128, 0, 0.4);
+	--color-dot-bg-3-light: rgba(255, 92, 0, 0.2);
+	--color-dot-bg-4-light: rgba(255, 77, 0, 0);
+	--color-dot-border-light: rgba(0, 0, 0, 0.06);
+
 
 		/* Initial animation offset... */
 		--default-delay: 1s;
